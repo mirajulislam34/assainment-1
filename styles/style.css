@@ -175,7 +175,7 @@ header{
    text-align: center;
    padding-top: 78px;
    margin: 120px 200px;
-   background-image: url('../backround\ Image.png');
+   background-image: url("image\ for\ backround.png");
    background-size: cover;
    background-repeat: no-repeat;
 }
